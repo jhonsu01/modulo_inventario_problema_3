@@ -1,0 +1,1 @@
+herramienta para auditar el inventario y decidir qué artículos necesitan ser reabastecidos. La información se encuentra en una matriz: [Código Artículo, Nombre, Stock Actual, Stock Mínimo Requerido]. 
